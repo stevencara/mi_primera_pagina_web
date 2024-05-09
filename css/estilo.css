@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1%;
+}
+
+.section-flex {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.chracter {
+    width: 25%;
+    margin: 3%;
+    border: 2px gray solid;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    background: rgb(187, 174, 174);
+}
+
+.chracter img {
+    width: 270px;
+    height: 300px;
+    font-weight: 60%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+footer p {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.mapa {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
